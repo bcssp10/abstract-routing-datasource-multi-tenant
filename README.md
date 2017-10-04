@@ -1,7 +1,6 @@
 Spring Boot Multi-tenant demo
 -----------------------------
-This repository contains the sources for the blogpost about Spring Boot multi-tenancy.
-If you want to know more, go read my weblog ;-)
+This is a good example elaborating multi-tenancy and AbstractRoutingDataSource usage, however it requires pre-defined data sources you cannot add runtime datasources.
 
 ## Compiling
 Run the following command to build the solution:
